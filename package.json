@@ -29,7 +29,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.2",
     "@openzeppelin/contracts-upgradeable": "^4.4.2",
-    "@setprotocol/index-coop-contracts": "^0.0.26",
+    "@setprotocol/index-coop-contracts": "^0.0.32",
     "@typechain/hardhat": "^2.3.0",
     "chai-as-promised": "^7.1.1",
     "chai-bn": "^0.3.0",
