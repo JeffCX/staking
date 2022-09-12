@@ -27,7 +27,7 @@
     "hardhat-deploy": "0.9.3"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/contracts": "^4.7.3",
     "@openzeppelin/contracts-upgradeable": "^4.4.2",
     "@setprotocol/index-coop-contracts": "^0.0.26",
     "@typechain/hardhat": "^2.3.0",
